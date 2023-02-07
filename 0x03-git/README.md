@@ -1,1 +1,1 @@
-Projects to practice using git
+Projects to practice using github
